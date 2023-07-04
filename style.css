@@ -1,0 +1,13 @@
+h1{
+    color: red;
+    background: #87CEEB;
+    text-align: center;
+    
+}
+p{
+    text-align: left;
+    font-size: large;
+    font-style: italic;
+    margin: 50px 50px 50px 50px;
+    padding: 10px;
+}
